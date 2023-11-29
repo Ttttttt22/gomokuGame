@@ -1,36 +1,9 @@
 # gomokuGame
 
 #### Description
-基于C#WinForms实现五子棋游戏（单人人机对战和多人局域网对战）
+C#WinForms-based implementation of backgammon games (single-player versus and multi-player LAN versus)
 
-#### Software Architecture
-Software architecture description
+1. designed and implemented a C# based backgammon game that supports two-player LAN matchmaking.
+2. developed three different difficulty levels of human-computer matchmaking functions for backgammon, enabling players to play intelligently against the computer. 
+3. Interned same user login system by connecting with MySQL database.
 
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
